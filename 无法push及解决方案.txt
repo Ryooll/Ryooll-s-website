@@ -1,0 +1,6 @@
+命令
+git config --global http.proxy
+git config --global --unset http.proxy
+git config --global http.sslVerify "false"
+执行后不要打开github desktop！！！！！！！！！！
+（貌似是因为该应用会自动开启ssl什么的）
