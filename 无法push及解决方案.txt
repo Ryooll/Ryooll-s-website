@@ -18,3 +18,4 @@ here is a test to test
     分析原因：可能是由于dns污染导致发送push请求时无法正常访问github
     方案：通过软件实现自动更新host文件（手动更新可能过段时间会失效）
     参考网址：https://www.cnblogs.com/PeterJXL/p/18432978
+.......
